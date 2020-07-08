@@ -1,2 +1,4 @@
 Day 1: This new adventure is really exciting. 
 Day 2: Two moons may make gravity measurements challanging. 
+Day 3: Weather forecast uncertain for testing
+Day 4: Warmer than expected sessonal temps
